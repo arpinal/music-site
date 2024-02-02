@@ -1,7 +1,7 @@
 
 body{
     background-color: rgb(238, 188, 168);
-    background-image: url(https://i.ytimg.com/vi/YtmqU4J-5X8/sddefault.jpg?v=6238caa0)
+    background-image: url(https://s.yimg.com/ny/api/res/1.2/FuhBt7xjUFnMPpDgC5tWkA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTY0MDtoPTQyNg--/https://media.zenfs.com/en/hypebae_340/b518bd83a785b9d7942a362a60efa467)
     ;
     background-attachment: fixed;
     background-size: cover;
@@ -11,22 +11,22 @@ body{
   
 }
 h1{
-    color: aliceblue;
+    color: rgb(0, 0, 0);
 
 }
 h3{
-    color: aliceblue;
+    color: rgb(0, 0, 0);
 }
 
 h4{
     .box2 
         background-color: rgba(0,0,0,.5);
-        color: #fff;
-    color: aliceblue;
+        color: #000000;
+    color: rgb(0, 0, 0);
     }
 
 th{
-    color: rgb(43, 10, 10);
+    color: rgb(0, 0, 0);
 }
 
 table, th, td{
@@ -35,4 +35,8 @@ table, th, td{
 
 table{
     background-color: aliceblue;
+}
+
+label{
+    color: #000000;
 }
