@@ -1,0 +1,38 @@
+
+body{
+    background-color: rgb(238, 188, 168);
+    background-image: url(https://i.ytimg.com/vi/YtmqU4J-5X8/sddefault.jpg?v=6238caa0)
+    ;
+    background-attachment: fixed;
+    background-size: cover;
+    background-repeat: no-repeat;
+
+    
+  
+}
+h1{
+    color: aliceblue;
+
+}
+h3{
+    color: aliceblue;
+}
+
+h4{
+    .box2 
+        background-color: rgba(0,0,0,.5);
+        color: #fff;
+    color: aliceblue;
+    }
+
+th{
+    color: rgb(43, 10, 10);
+}
+
+table, th, td{
+    border: 1px solid black;
+}
+
+table{
+    background-color: aliceblue;
+}
